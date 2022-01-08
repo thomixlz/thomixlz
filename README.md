@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, Je suis BREGLER (thomix) Thomas</h1>
-<h3 align="center">Étudiant passionné d'informatique, de cybersécurité, de nouvelles technologies et de musique J'espère pouvoir travailler plus tard dans l'un de ces domaines.</h3>
+<h3 align="center">Étudiant passionné d'informatique, de cybersécurité, de nouvelles technologies et de musique. J'espère pouvoir travailler plus tard dans l'un de ces domaines.</h3>
 
 - 👨‍💻 Linkedin **https://www.linkedin.com/in/thomas-bregler/**
 
